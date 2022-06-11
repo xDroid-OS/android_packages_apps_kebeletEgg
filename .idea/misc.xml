@@ -5,7 +5,22 @@
       <map>
         <entry key="..\:/Project/kebeletEgg/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/Project/kebeletEgg/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Project/kebeletEgg/app/src/main/res/drawable/ic_sim.xml" value="0.161" />
+        <entry key="..\:/Project/kebeletEgg/app/src/main/res/drawable/ic_xd.xml" value="0.154" />
+        <entry key="..\:/Project/kebeletEgg/app/src/main/res/drawable/sim_bahagia.xml" value="0.1395" />
+        <entry key="..\:/Project/kebeletEgg/app/src/main/res/drawable/sim_cegeh.xml" value="0.1395" />
+        <entry key="..\:/Project/kebeletEgg/app/src/main/res/drawable/sim_galau.xml" value="0.1395" />
+        <entry key="..\:/Project/kebeletEgg/app/src/main/res/drawable/sim_gibah.xml" value="0.1395" />
+        <entry key="..\:/Project/kebeletEgg/app/src/main/res/drawable/sim_mati.xml" value="0.1395" />
+        <entry key="..\:/Project/kebeletEgg/app/src/main/res/drawable/sim_mrengut.xml" value="0.1395" />
+        <entry key="..\:/Project/kebeletEgg/app/src/main/res/drawable/sim_nesu.xml" value="0.1395" />
+        <entry key="..\:/Project/kebeletEgg/app/src/main/res/drawable/sim_ngelet.xml" value="0.1395" />
+        <entry key="..\:/Project/kebeletEgg/app/src/main/res/drawable/sim_o.xml" value="0.1395" />
+        <entry key="..\:/Project/kebeletEgg/app/src/main/res/drawable/sim_senyum.xml" value="0.1395" />
+        <entry key="..\:/Project/kebeletEgg/app/src/main/res/drawable/sim_turu.xml" value="0.1395" />
+        <entry key="..\:/Project/kebeletEgg/app/src/main/res/layout/xd_main.xml" value="0.13753799392097266" />
         <entry key="..\:/Project/kebeletEgg/app/src/main/res/layout/xd_mainFrame.xml" value="0.1" />
+        <entry key="..\:/Project/kebeletEgg/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
       </map>
     </option>
   </component>

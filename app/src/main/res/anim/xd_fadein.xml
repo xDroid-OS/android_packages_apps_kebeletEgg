@@ -16,20 +16,10 @@
 * limitations under the License.
 */
 -->
-<FrameLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/simplyContainer"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:fitsSystemWindows="true"
-    tools:context=".kebeletMain">
-
-    <ImageView
-        android:id="@+id/platXD"
-        android:layout_width="200dp"
-        android:layout_height="200dp"
-        android:layout_gravity="center"
-        android:src="@drawable/ic_xd"/>
-
-</FrameLayout>
+<set xmlns:android="http://schemas.android.com/apk/res/android" android:interpolator="@android:anim/linear_interpolator">
+    <alpha
+        android:duration="800"
+        android:fromAlpha="0.1"
+        android:toAlpha="1.0">
+    </alpha>
+</set>

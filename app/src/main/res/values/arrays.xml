@@ -16,20 +16,18 @@
 * limitations under the License.
 */
 -->
-<FrameLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/simplyContainer"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:fitsSystemWindows="true"
-    tools:context=".kebeletMain">
-
-    <ImageView
-        android:id="@+id/platXD"
-        android:layout_width="200dp"
-        android:layout_height="200dp"
-        android:layout_gravity="center"
-        android:src="@drawable/ic_xd"/>
-
-</FrameLayout>
+<resources>
+    <array name="simplyPack">
+        <item>@drawable/sim_bahagia</item>
+        <item>@drawable/sim_cegeh</item>
+        <item>@drawable/sim_galau</item>
+        <item>@drawable/sim_gibah</item>
+        <item>@drawable/sim_mati</item>
+        <item>@drawable/sim_mrengut</item>
+        <item>@drawable/sim_nesu</item>
+        <item>@drawable/sim_ngelet</item>
+        <item>@drawable/sim_o</item>
+        <item>@drawable/sim_senyum</item>
+        <item>@drawable/sim_turu</item>
+    </array>
+</resources>
